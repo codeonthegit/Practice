@@ -17,13 +17,15 @@ public class BrowserSetting {
 		// driver = new ChromeDriver();
 
 		/*
-		 * Google chrome browser System.setProperty("webdriver.chrome.driver",
+		 * Google chrome browser 
+		 * System.setProperty("webdriver.chrome.driver",
 		 * "C:\\Users\\ManjiriGosavi\\Downloads\\IMP\\Drivers\\chromedriver_win32\\chromedriver.exe"
 		 * ); driver=new ChromeDriver();
 		 */
 
 		/*
-		 * Mozilla firefox browser System.setProperty("webdriver.gecko.driver",
+		 * Mozilla firefox browser 
+		 * System.setProperty("webdriver.gecko.driver",
 		 * "C:\\Users\\ManjiriGosavi\\Downloads\\IMP\\Drivers\\geckodriver_win32\\geckodriver.exe"
 		 * ); driver=new FirefoxDriver();
 		 */
@@ -35,7 +37,8 @@ public class BrowserSetting {
 		driver = new EdgeDriver();
 
 		/*
-		 * microsoft egde browser System.setProperty("webdriver.edge.driver",
+		 * microsoft egde browser 
+		 * System.setProperty("webdriver.edge.driver",
 		 * "C:\\Users\\ManjiriGosavi\\Downloads\\IMP\\Drivers\\edgedriver_win32\\
 		 * edgedriver.exe driver = new EdgeDriver();
 		 */
