@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="MouseandKeyOperations.MouseandKey">
+      <class name="PracticeHere.KeyMouseOperations">
         <methods>
-          <include name="test1"/>
+          <include name="Tc001"/>
+          <include name="startBrowser"/>
         </methods>
-      </class> <!-- MouseandKeyOperations.MouseandKey -->
+      </class> <!-- PracticeHere.KeyMouseOperations -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

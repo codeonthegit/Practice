@@ -16,10 +16,11 @@ public class BrowserSetting {
 		// WebDriverManager.chromedriver().setup();
 		// driver = new ChromeDriver();
 
-		/* Google chrome browser 
+		/* Google chrome browser //specify the driver location
+
 		 * System.setProperty("webdriver.chrome.driver",
 		 * "C:\\Users\\ManjiriGosavi\\Downloads\\IMP\\Drivers\\chromedriver_win32\\chromedriver.exe"
-		 * ); driver=new ChromeDriver();
+		 * ); driver=new ChromeDriver(); //instantiate the driver
 		 */
 
 		/* Mozilla firefox browser 
